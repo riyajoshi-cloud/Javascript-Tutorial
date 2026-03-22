@@ -4,6 +4,8 @@ A code repo for javascript series from basics to learn and enjoy javascript.
 <BR>
 ROADMAP 
 <br>
-DAY 1 : Setup nodejs environment in your system and know how to work on Github environment with javascript. [test.js]
+DAY 0 : Setup nodejs environment in your system and know how to work on Github environment with javascript. [test.js]
 <br>
-DAY 2 : Learn variables and constants declaration. [01_variables]
+DAY 1 : Learn variables and constants declaration. [01_variables]
+<br>
+DAY 2 : Learn dataypes and ECMA standards.
