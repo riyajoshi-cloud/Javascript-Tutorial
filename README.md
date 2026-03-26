@@ -12,4 +12,5 @@ DAY 0 : Setup nodejs environment in your system and know how to work on Github e
 DAY 1 : Learn variables and constants declaration. [01_variables.js]
 <br>
 DAY 2 : Learn dataypes and ECMA standards. [02_datatypes.js]
-
+<br>
+DAY 3 : Datatypes Conversion
