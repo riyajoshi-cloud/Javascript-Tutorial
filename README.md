@@ -1,11 +1,10 @@
-
 <div align="center">
   <img src="https://placehold.co/1000x200/151515/F7DF1E?text=ONLY+50+DAYS+OF+JAVASCRIPT&font=raleway" alt="Only 50 Days of JavaScript Banner" width="100%" />
 </div>
 
 <br>
 
-# Only 50 Days of JavaScript Challenge
+# 50 Days of JavaScript Challenge
 
 > An easy tutorial tracker and structured roadmap for students to master JavaScript. Inspired by the curriculum of Hitesh Choudhary (Chai aur Code).
 
@@ -13,7 +12,7 @@
 
 ## Why I Created This Repository
 
-While participating in the IDE Bootcamp 2026 and building my own student projects (like StayEase and a digital nutrition app), I realized that casually watching videos wasn't enough. I needed a solid, practical coding foundation to actually bring my ideas to life.
+While participating in the IDE Bootcamp 2026 and building my own student projects, I realized that casually watching videos wasn't enough. I needed a solid, practical coding foundation to actually bring my ideas to life.
 
 I often saw my juniors getting stuck in "tutorial hell" and feeling overwhelmed by how much there is to learn. Mastering code shouldn't feel impossible. I built this repository to show you that you need **only 50 days of JavaScript** to build a strong, working foundation. I wanted to turn a massive subject into an **easy tutorial** journey, providing a clean, step-by-step tracker so you can hold yourself accountable and actually start building.
 
@@ -154,7 +153,7 @@ I often saw my juniors getting stuck in "tutorial hell" and feeling overwhelmed 
 
 ## Description & Philosophy
 
-This guide is built on the belief that the best learning experiences come from clear, simple, and functional structures. Similar to how I approach minimal and clean design for my brand, House of Dishanta, my approach to code emphasizes writing clean, understandable JavaScript. This repository strips away the noise, leaving only the essential, easy-to-follow path from an absolute beginner to building real application logic.
+This guide is built on the belief that the best learning experiences come from clear, simple, and functional structures.This repository strips away the noise, leaving only the essential, easy-to-follow path from an absolute beginner to building real application logic.
 
 ---
 
