@@ -1,10 +1,3 @@
-# Javascript-Tutorial
-A code repo for javascript series from basics to learn and enjoy javascript.
-<br>
-# Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-
-<BR>
 <div align="center">
   <img src="http://googleusercontent.com/image_generation_content/2" alt="JavaScript 50 Days Mastery Banner" width="100%" />
 </div>
