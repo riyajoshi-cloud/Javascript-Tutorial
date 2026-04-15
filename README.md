@@ -1,29 +1,34 @@
+Since GitHub's Markdown strictly blocks custom CSS background colors for security reasons, the best professional workaround is to use a dynamic placeholder image that generates a clean, solid-color block with typography. 
+
+I have replaced the AI-generated image with a reliable, instant-loading dark banner with JavaScript-yellow text. I also shortened the text sections so the entire document is much more concise, while keeping the tables and gaps exactly as you requested.
+
+Here is the ready-to-copy code:
+
+```markdown
 <div align="center">
-  <img src="http://googleusercontent.com/image_generation_content/2" alt="JavaScript 50 Days Mastery Banner" width="100%" />
+  <img src="https://placehold.co/1000x200/151515/F7DF1E?text=JAVASCRIPT:+50+DAYS+MASTERY&font=raleway" alt="JavaScript 50 Days Mastery Banner" />
 </div>
+
+<br>
 
 # JavaScript 50-Day Mastery Challenge
 
-> A structured, minimalist roadmap for students to track their JavaScript journey. Inspired by the curriculum of Hitesh Choudhary (Chai aur Code).
+> A minimal, structured roadmap for students to track their JavaScript journey. Inspired by Hitesh Choudhary (Chai aur Code).
 
 ---
 
 ## Why I Created This Repository
 
-When I started participating in the IDE Bootcamp 2026 and working on my own student projects—like StayEase and a digital nutrition app—I quickly realized that just watching tutorials wasn't enough. I needed a solid foundation in web technologies to actually build the things I was designing. 
-
-I often saw my juniors getting stuck in "tutorial hell" without a clear path forward. I built this repository to document exactly how I studied and tracked my own progress. My goal is to provide a clean, organized, and step-by-step guide so you can hold yourself accountable and master JavaScript without getting overwhelmed.
+While participating in the IDE Bootcamp 2026 and building my own student projects (like StayEase and a digital nutrition app), I realized that watching tutorials wasn't enough. I needed a solid coding foundation. I often saw my juniors getting stuck in "tutorial hell" without a clear path. I built this repository to document how I studied, providing a clean, step-by-step guide so you can hold yourself accountable and actually build logic.
 
 ---
 
-## Pros of Using This Repository
+## Pros of Using This Guide
 
-Taking hints from efficient tracking repositories like DSAPartnerChallenge, this guide is designed for maximum focus:
-
-* **Zero Distractions:** A strictly professional, text-based interface to keep your focus on learning.
-* **Clear Tracking:** By forking this repository, you get a personal dashboard. You can easily track your daily progress.
-* **Curated Resources:** Every day is mapped to a specific, high-quality video lecture, saving you time searching for what to learn next.
-* **Logical Progression:** The roadmap ensures you understand the basics of memory and syntax before jumping into complex logic or building projects.
+* **Zero Distractions:** A strictly text-based, professional interface to keep your focus on learning.
+* **Clear Tracking:** Fork this repository to get your own dashboard and track daily progress.
+* **Curated Resources:** Every day maps to a specific video lecture, saving you search time.
+* **Logical Progression:** Master memory and syntax before jumping into complex projects.
 
 ---
 
@@ -53,8 +58,6 @@ Taking hints from efficient tracking repositories like DSAPartnerChallenge, this
 | | | |
 | 10 | Dates and Time | [Watch Video](https://www.youtube.com/watch?v=tIu_b9lMZ9U) |
 
----
-
 ### Phase 2: Data Structures and Functions
 
 | Day | Topic | Tutorial Link |
@@ -78,8 +81,6 @@ Taking hints from efficient tracking repositories like DSAPartnerChallenge, this
 | 19 | JavaScript Execution Context | [Watch Video](https://www.youtube.com/watch?v=ByhtOgF6SVE) |
 | | | |
 | 20 | Control Flow | [Watch Video](https://www.youtube.com/watch?v=0P_YV9Y3R_w) |
-
----
 
 ### Phase 3: Iteration and DOM
 
@@ -105,8 +106,6 @@ Taking hints from efficient tracking repositories like DSAPartnerChallenge, this
 | | | |
 | 30 | Project 3: Digital Clock | [Watch Video](https://www.youtube.com/watch?v=kp_f9_9O59E) |
 
----
-
 ### Phase 4: Async and Advanced Concepts
 
 | Day | Topic | Tutorial Link |
@@ -130,8 +129,6 @@ Taking hints from efficient tracking repositories like DSAPartnerChallenge, this
 | 39 | Bind in JavaScript | [Watch Video](https://www.youtube.com/watch?v=-vYn66tndE8) |
 | | | |
 | 40 | Lexical Scoping and Closures | [Watch Video](https://www.youtube.com/watch?v=EH3vGeqeIAo) |
-
----
 
 ### Phase 5: Professional Workflow and Projects
 
@@ -161,17 +158,13 @@ Taking hints from efficient tracking repositories like DSAPartnerChallenge, this
 
 ## Description & Philosophy
 
-This 50-day mastery guide is built on the idea that the best learning comes from clean, simple, and highly functional structures. Just as I prefer a minimal and professional approach to my design projects with House of Dishanta, my approach to learning code emphasizes writing clean and understandable JavaScript. This repository strips away the noise, leaving only the essential path from absolute beginner to building real logic.
+This guide is built on the idea that the best learning comes from clean, simple, and functional structures. Just as I prefer a minimal and professional approach to my design projects with House of Dishanta, my approach to code emphasizes writing clean and understandable JavaScript. This repository strips away the noise, leaving only the essential path from absolute beginner to building real logic.
 
 ---
 
 ## Disclaimers
 
-**Content Ownership**
-All video content, curriculum structure, and educational materials linked in this repository are the property of Hitesh Choudhary (Chai aur Code). This repository is a personal documentation of the learning journey and does not claim ownership over the teaching methodology or the video assets.
+**Content Ownership:** All video content and curriculum structures linked here are the property of Hitesh Choudhary (Chai aur Code). This is a personal documentation of the learning journey and claims no ownership over the teaching methodology.
 
-**Educational Purpose**
-The code samples and notes provided herein are for educational and reference purposes only. While every effort is made to ensure accuracy, the maintainer is not responsible for any errors or issues arising from the use of this code in production environments.
-
-**No Affiliation**
-This repository is not officially endorsed by or affiliated with the "Chai aur Code" YouTube channel. It is a community-driven contribution intended to help document learning progress.
+**No Affiliation:** This repository is not officially endorsed by or affiliated with the "Chai aur Code" YouTube channel. It is a student-driven contribution intended to help document learning progress.
+```
