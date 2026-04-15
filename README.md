@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://placehold.co/1000x250/111111/F7DF1E?text=JAVASCRIPT%0ABEG+TO+ADVANCED&font=raleway" alt="JavaScript Beginner to Advanced" width="100%" />
+  <img src="https://placehold.co/1000x250/111111/F7DF1E?text=JAVASCRIPT%0ABEGINEER+TO+ADVANCED&font=raleway" alt="JavaScript Beginner to Advanced" width="100%" />
   <br><br>
   <h2>ONLY 50 DAYS OF JAVASCRIPT</h2>
   <p><b>From Zero Syntax to Professional Application Architecture.</b></p>
