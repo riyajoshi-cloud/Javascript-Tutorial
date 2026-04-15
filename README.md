@@ -1,6 +1,4 @@
-Here is the updated, ready-to-copy Markdown code. I have rewritten the introductory sections to be more encouraging and appealing to beginners by adding phrases like "only 50 days of JavaScript" and "easy tutorial," while keeping the clean, emoji-free, and professional layout you want for your GitHub repository.
 
-```markdown
 <div align="center">
   <img src="https://placehold.co/1000x200/151515/F7DF1E?text=ONLY+50+DAYS+OF+JAVASCRIPT&font=raleway" alt="Only 50 Days of JavaScript Banner" width="100%" />
 </div>
